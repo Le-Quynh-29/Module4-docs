@@ -1,5 +1,5 @@
 # Module4-docs
-##lession-4
+## lession-4
 
 thêm 4 file 
 
@@ -14,5 +14,13 @@ file:///home/quynh/Documents/component.docx
 
 file:///home/quynh/Documents/Angular.xmind
 
-##lession 5
+## lession 5
 Thêm phần giao tiếp giữa các compoment ở angular.xm
+## lession 6
+Thêm 2 file 
+x-special/nautilus-clipboard
+copy
+file:///home/quynh/Documents/reactive-form&&template-driven-f.docx
+file:///home/quynh/Documents/Angular%20form.xmind
+
+Mìndmap lession 6 và so sánh reactive form & template-driven-form
