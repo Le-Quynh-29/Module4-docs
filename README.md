@@ -22,5 +22,10 @@ x-special/nautilus-clipboard
 copy
 file:///home/quynh/Documents/reactive-form&&template-driven-f.docx
 file:///home/quynh/Documents/Angular%20form.xmind
+x-special/nautilus-clipboard
+copy
+file:///home/quynh/Documents/jwt.docx
+
 
 Mìndmap lession 6 và so sánh reactive form & template-driven-form
+Tìm hiểu về jwt
