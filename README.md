@@ -28,3 +28,5 @@ file:///home/quynh/Documents/jwt.docx
 
 Mìndmap lession 6 và so sánh reactive form & template-driven-form
 Tìm hiểu về jwt
+# lession 7
+mindmap service và router tr
